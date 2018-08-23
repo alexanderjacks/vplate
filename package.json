@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "vue": "^2.5.17",
+    "vue-circle-progress": "0.0.2",
     "vue-gh-pages": "^1.18.2",
-    "vue-sweetalert2": "^1.5.2"
+    "vue-sweetalert2": "^1.5.2",
+    "vue2-circle-progress": "^1.2.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.1",

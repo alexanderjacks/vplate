@@ -1,6 +1,9 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Welcome to 🍳"/>
+    <HelloWorld
+      msg="Boilerplate Vue 🍳"
+      msg2="Lots of tooling (Bootstrap, FontAwesome, SweetAlert, Coinhive)"
+    />
   </div>
 </template>
 
@@ -22,6 +25,8 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  background-image: linear-gradient(to bottom, aquamarine, thistle, navy);
+  height: 100%;
+  padding-top: 0.4em;
 }
 </style>

@@ -1,5 +1,7 @@
 # vplate
 
+## [View live](https://alexanderjacks.github.io/vplate/)
+
 ## Project setup
 ```
 yarn install
@@ -19,3 +21,7 @@ yarn run build
 ```
 yarn run lint
 ```
+
+### Libraries installed and still awaiting full integration
++ https://vuejsexamples.com/a-vue-js-component-to-draw-animated-circular-progress-bars/
+
